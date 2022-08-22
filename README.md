@@ -1,5 +1,7 @@
 ﻿# Skaiciavimai
-![screencapture-localhost-nd2-uzd3-php-2022-08-22-17_36_51](https://user-images.githubusercontent.com/107032193/185948175-066691b5-e39f-484e-877a-73d36f8aa808.png)
-![screencapture-localhost-nd2-uzd1-php-2022-08-22-17_36_26](https://user-images.githubusercontent.com/107032193/185948187-e628b24a-0cf9-4862-be61-42f8f2b585c3.png)
-![screencapture-localhost-nd2-uzd2-php-2022-08-22-17_39_14](https://user-images.githubusercontent.com/107032193/185948704-8ba5da97-9ab4-45c7-b08c-68e92bc64d0a.png)
+![screencapture-localhost-nd2-uzd1-php-2022-08-22-19_37_39](https://user-images.githubusercontent.com/107032193/185973788-bdc32810-1813-404d-a60b-3121d011d3b8.png)
+![screencapture-localhost-nd2-uzd3-php-2022-08-22-19_38_04](https://user-images.githubusercontent.com/107032193/185973804-7b6a1b02-105d-4ee7-9128-6afc8117e25f.png)
+![screencapture-localhost-nd2-uzd2-php-2022-08-22-19_37_51](https://user-images.githubusercontent.com/107032193/185973823-34e6e354-2228-4238-81f9-efe95475445c.png)
+
+
 
