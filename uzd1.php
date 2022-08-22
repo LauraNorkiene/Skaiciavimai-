@@ -10,9 +10,9 @@ if (isset($_POST['k1']) &&  $_POST['k1'] != '') {
         (($k1 + $k3) > $k2) &&
         (($k2 + $k3) > $k1)
     ) {
-        $out = "Rezultatas: Trikampį sudaryti galime!";
+        $out = "Trikampį sudaryti galime!";
     } else {
-        $out = "Rezultatas: Neįmanoma sudaryti trikampio!";
+        $out = "Neįmanoma sudaryti trikampio!";
     }
 }
 
@@ -52,13 +52,13 @@ if (isset($_POST['k1']) &&  $_POST['k1'] != '') {
                     <input class="mt-2" type="text" name="k2" placeholder="Kraštinės 2 ilgis"> <br>
                     <input class="mt-2" type="text" name="k3" placeholder="Kraštinės 3 ilgis"> <br>
 
-                    <button class="mt-3">Skaičiuoti</button>
+                    <button id="button" class="mt-3">Skaičiuoti</button>
                 </form>
             </div>
         </div>
 
 
-        <div class="rezultatas">
+        <div class="rezultatas fs-4">
             <?= $out ?>
         </div>
     </div>

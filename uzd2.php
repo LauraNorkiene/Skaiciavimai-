@@ -49,13 +49,13 @@ if (isset($_POST['metai']) && is_numeric($_POST['metai'])) {
         <form action="" method="post">
           <input class="mt-3" type="text" name="metai" placeholder="Įvekite metus"> <br>
 
-          <button class="mt-4">Skaičiuoti</button>
+          <button id="button" class="mt-4">Skaičiuoti</button>
         </form>
       </div>
     </div>
 
 
-    <div class="rezultatas">
+    <div class="rezultatas fs-4">
       <?= $out ?>
     </div>
   </div>
